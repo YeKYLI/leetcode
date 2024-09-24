@@ -5,6 +5,8 @@ https://github.com/changgyhub/leetcode_101/blob/master/LeetCode%20101%20-%20A%20
 https://github.com/pezy/LeetCode/tree/master
 
 
+google/coding-competitions-archive: Google Coding Competitions problem archive (github.com)
+
 [https://github.com/doocs/leetcode/tree/main/solution](https://github.com/doocs/leetcode)
 
 相关内容已备份至网盘 以下是处理脚本
